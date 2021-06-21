@@ -20,3 +20,6 @@ Which means if depth is 2, worst case is 4 times, and depth 3 will be 8 times. H
 Each time a ball finds a container, the container index in the heap array will be changed to -99. After all balls done, the only container that's not -99 will be the empty one.
 
 You can compare the last WriteLine with the prediction at beginning.
+
+### Example output with depth 3
+![example output in console](https://github.com/tenglongroy/everlight-technical-challenge/raw/main/example-output.png?raw=true)
