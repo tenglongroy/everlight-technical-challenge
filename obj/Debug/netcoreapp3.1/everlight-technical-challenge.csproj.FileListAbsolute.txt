@@ -1,0 +1,13 @@
+E:\repo\Assessment\everlight-technical-challenge\obj\Debug\netcoreapp3.1\everlight-technical-challenge.csprojAssemblyReference.cache
+E:\repo\Assessment\everlight-technical-challenge\obj\Debug\netcoreapp3.1\everlight-technical-challenge.AssemblyInfoInputs.cache
+E:\repo\Assessment\everlight-technical-challenge\obj\Debug\netcoreapp3.1\everlight-technical-challenge.AssemblyInfo.cs
+E:\repo\Assessment\everlight-technical-challenge\obj\Debug\netcoreapp3.1\everlight-technical-challenge.csproj.CoreCompileInputs.cache
+E:\repo\Assessment\everlight-technical-challenge\bin\Debug\netcoreapp3.1\everlight-technical-challenge.exe
+E:\repo\Assessment\everlight-technical-challenge\bin\Debug\netcoreapp3.1\everlight-technical-challenge.deps.json
+E:\repo\Assessment\everlight-technical-challenge\bin\Debug\netcoreapp3.1\everlight-technical-challenge.runtimeconfig.json
+E:\repo\Assessment\everlight-technical-challenge\bin\Debug\netcoreapp3.1\everlight-technical-challenge.runtimeconfig.dev.json
+E:\repo\Assessment\everlight-technical-challenge\bin\Debug\netcoreapp3.1\everlight-technical-challenge.dll
+E:\repo\Assessment\everlight-technical-challenge\bin\Debug\netcoreapp3.1\everlight-technical-challenge.pdb
+E:\repo\Assessment\everlight-technical-challenge\obj\Debug\netcoreapp3.1\everlight-technical-challenge.dll
+E:\repo\Assessment\everlight-technical-challenge\obj\Debug\netcoreapp3.1\everlight-technical-challenge.pdb
+E:\repo\Assessment\everlight-technical-challenge\obj\Debug\netcoreapp3.1\everlight-technical-challenge.genruntimeconfig.cache
