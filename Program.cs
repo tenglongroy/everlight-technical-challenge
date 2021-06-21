@@ -32,6 +32,7 @@ namespace everlight_technical_challenge
             this.checkEmptyContainer(this.heap, depth);
         }
 
+        /* randomise the gate direction and add to heap array, then also add container index */
         void generateTree(List<int> heapList, int depth){
             int totalLength = (int)Math.Pow(2, depth);
             // store gateSide into heapList
@@ -45,6 +46,7 @@ namespace everlight_technical_challenge
             }
         }
 
+        /* print the gate direction on heap array and also container names */
         void printTreeStructure(List<int> heapList, int depth){
             Console.WriteLine("The heap array for gate side is:");
             for(int ind = 1; ind < heapList.Count; ind++){
@@ -77,6 +79,7 @@ namespace everlight_technical_challenge
                 this._traverseTree(heapList, depth, ind);
             }
         }
+        /* traverse the tree using gate direction, and flip the direction after passing the gate*/
         void _traverseTree(List<int> heapList, int depth, int ballInd){
             List<int> path = new List<int>();
             int nextInd = 1, currentGateSide = 0;
@@ -101,6 +104,7 @@ namespace everlight_technical_challenge
             Console.WriteLine("----------------");
         }
 
+        /* find the container whose value on heap array is not -99 */
         void checkEmptyContainer(List<int> heapList, int depth){
             int containerStartInd = (int)Math.Pow(2, depth);
             for(; containerStartInd < heapList.Count; containerStartInd ++){
